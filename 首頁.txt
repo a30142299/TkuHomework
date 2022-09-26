@@ -1,0 +1,11 @@
+<hrml>
+<head>
+	<meta charset="utf-8">
+	<title>首頁</title>
+	<style>
+</style>
+</head>
+<body>
+<a href="https://www.tku.edu.tw/">TKU</a>
+</body>
+</html>
